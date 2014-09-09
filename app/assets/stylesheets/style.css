@@ -1,0 +1,74 @@
+/*.nav-bg{
+	background: #E53000;
+}
+
+#contact_body.container{
+ max-width: 90%;
+}
+.hero-unit h1{
+	word-wrap:break-word;
+}
+.mRrt20{
+	margin-right: 20px!important;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+	color: #000;
+	text-decoration: none;
+	background: none;
+	text-shadow:none;
+	border:none;
+	-webkit-box-shadow: none;
+	 -moz-box-shadow: none;
+		  box-shadow: none;
+}
+.navbar .nav > li > a{
+	color: #fff;
+	text-decoration: none;
+	background: none;
+	text-shadow:none;
+}
+.nav-tabs{
+	border:none;
+}
+.navbar .nav > li > a:hover{
+	border-color:#EC3002;
+}
+#myTab{
+	padding:12px 0 0 0;
+}
+.carousel-indicators{
+	bottom:15px!important;
+	top:auto!important;
+}
+.carouselText{
+	position:absolute;
+	bottom:0;
+	padding:19px 19px 24px 19px;
+	background:url(../img/carousel-bg.png) repeat 0 0;
+}
+.carouselText h2{
+	padding:0;
+	margin:0;
+	color:#000;
+	font-size:16px;
+}
+.carouselText p{
+	padding:0;
+	margin:0;
+	color:#000;
+	font-size:12px;
+	line-height:18px;
+}
+
+.carousel-control.right{
+	right: -54px;
+}
+.carousel-control.left{
+	left: -54px;
+}*/
+
+.footer, .push {
+height: 47px;
+}
